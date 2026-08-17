@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
+## String
+|  |
+| ------- |
+| [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 <!---LeetCode Topics End-->
