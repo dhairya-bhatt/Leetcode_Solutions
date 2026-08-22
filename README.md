@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +48,8 @@
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
