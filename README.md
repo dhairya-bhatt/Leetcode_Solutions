@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -43,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 <!---LeetCode Topics End-->
