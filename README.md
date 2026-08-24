@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
