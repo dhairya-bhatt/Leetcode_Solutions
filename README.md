@@ -13,6 +13,7 @@
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
