@@ -4,7 +4,8 @@ class Solution:
         if mini & 1:
             return True
         else:
-            if all(num % 2 == 0 for num in nums1):
-                return True
-        return False
+            for x in range(len(nums1)):
+                if nums1[x] & 1:
+                    return False
+        return True
             
