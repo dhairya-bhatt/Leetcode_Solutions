@@ -14,6 +14,7 @@
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
