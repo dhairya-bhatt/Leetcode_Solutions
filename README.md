@@ -15,6 +15,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +97,5 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4285-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
