@@ -5,9 +5,9 @@ class Solution {
         // alt[0]=0;
         int ans = 0;
         int sum = 0;
-        for (int i = 0; i<n;i++){
+        for (int g :gain){
             // alt[i+1]=alt[i]+nums[i];
-            sum +=gain[i];
+            sum +=g;
             ans = Math.max(ans,sum);
         }
         return ans;
