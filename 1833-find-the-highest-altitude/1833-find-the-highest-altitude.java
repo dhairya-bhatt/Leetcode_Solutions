@@ -8,9 +8,7 @@ class Solution {
         for (int i = 0; i<n;i++){
             // alt[i+1]=alt[i]+nums[i];
             sum +=gain[i];
-            if(sum>ans){
-                ans=sum;
-            }
+            ans = Math.max(ans,sum);
         }
         return ans;
         // int max = alt[0];
