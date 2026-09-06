@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## String
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
