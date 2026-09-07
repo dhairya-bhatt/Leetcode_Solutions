@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
