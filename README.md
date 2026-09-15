@@ -68,6 +68,7 @@
 | [0520-detect-capital](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
 | [3207-make-three-strings-equal](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3207-make-three-strings-equal) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
 ## Linked List
 |  |
 | ------- |
