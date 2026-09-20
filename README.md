@@ -70,11 +70,13 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
 | [3207-make-three-strings-equal](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3207-make-three-strings-equal) |
+| [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
