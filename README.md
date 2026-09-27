@@ -28,6 +28,7 @@
 | [0050-powx-n](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -78,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
