@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
