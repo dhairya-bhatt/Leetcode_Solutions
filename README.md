@@ -7,6 +7,7 @@
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1833-find-the-highest-altitude](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -111,6 +112,7 @@
 | [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
