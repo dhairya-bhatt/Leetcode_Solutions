@@ -32,6 +32,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
+| [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
@@ -194,4 +196,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
