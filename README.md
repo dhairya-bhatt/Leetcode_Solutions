@@ -11,6 +11,7 @@
 | [1833-find-the-highest-altitude](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
