@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
