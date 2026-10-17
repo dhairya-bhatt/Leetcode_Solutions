@@ -14,6 +14,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -65,11 +66,13 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
