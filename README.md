@@ -37,6 +37,7 @@
 | [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
+| [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -133,6 +134,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0886-score-of-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
