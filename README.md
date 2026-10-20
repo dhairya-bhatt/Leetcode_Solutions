@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0886-score-of-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -227,4 +228,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
