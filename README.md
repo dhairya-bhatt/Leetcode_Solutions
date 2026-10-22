@@ -11,6 +11,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1833-find-the-highest-altitude](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 ## Two Pointers
