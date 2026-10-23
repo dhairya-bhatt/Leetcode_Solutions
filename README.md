@@ -16,6 +16,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -242,4 +243,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
