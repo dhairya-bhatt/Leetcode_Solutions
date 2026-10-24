@@ -43,6 +43,7 @@
 | [0415-add-strings](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
+| [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4245-count-commas-in-range) |
@@ -101,6 +102,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
 | [3207-make-three-strings-equal](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3207-make-three-strings-equal) |
 | [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
