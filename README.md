@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
