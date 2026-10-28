@@ -113,6 +113,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
@@ -150,6 +151,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
