@@ -10,6 +10,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4107-find-missing-elements) |
@@ -94,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## String
 |  |
