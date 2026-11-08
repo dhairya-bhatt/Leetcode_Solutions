@@ -11,6 +11,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -145,6 +146,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
 ## Linked List
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -255,6 +259,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Design
 |  |
 | ------- |
@@ -280,4 +285,8 @@
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
