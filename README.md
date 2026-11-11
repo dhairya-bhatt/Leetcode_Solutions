@@ -55,6 +55,7 @@
 | [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4245-count-commas-in-range](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -141,6 +142,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Game Theory
 |  |
 | ------- |
