@@ -68,6 +68,7 @@
 | [0206-reverse-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -202,6 +204,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
