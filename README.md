@@ -109,6 +109,7 @@
 | [0234-palindrome-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
 ## String
 |  |
@@ -175,6 +176,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -206,6 +208,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
