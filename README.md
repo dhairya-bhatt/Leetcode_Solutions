@@ -126,6 +126,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3207-make-three-strings-equal](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3207-make-three-strings-equal) |
 | [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4177-reverse-string-prefix](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4177-reverse-string-prefix) |
