@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
@@ -97,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0520-detect-capital) |
