@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@
 | [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -163,6 +166,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3019-furthest-point-from-origin](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3019-furthest-point-from-origin) |
@@ -301,6 +305,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -318,4 +323,16 @@
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
