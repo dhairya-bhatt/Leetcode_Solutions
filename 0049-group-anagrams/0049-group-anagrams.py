@@ -4,7 +4,4 @@ class Solution:
         groups = defaultdict(list)
         for word in strs:
             groups[tuple(sorted(word))].append(word)
-        finallist=[]
-        for key in groups:
-            finallist.append(groups.get(key))
-        return finallist
+        return list(groups.values())
