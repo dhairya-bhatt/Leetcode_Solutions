@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
