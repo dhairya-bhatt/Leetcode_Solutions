@@ -180,6 +180,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -229,15 +230,18 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Combinatorics
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Knapsack Problem
