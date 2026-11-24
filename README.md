@@ -25,6 +25,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
@@ -60,6 +61,7 @@
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
