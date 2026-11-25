@@ -234,17 +234,20 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Combinatorics
@@ -273,6 +276,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [1396-count-servers-that-communicate](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
