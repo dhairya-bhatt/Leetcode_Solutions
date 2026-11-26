@@ -61,6 +61,7 @@
 | [2039-sum-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2039-sum-game) |
 | [2496-count-days-spent-together](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2496-count-days-spent-together) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3625-stone-removal-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3830-find-closest-person](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -154,6 +155,7 @@
 | [0415-add-strings](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3625-stone-removal-game) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/dhairya-bhatt/Leetcode_Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
